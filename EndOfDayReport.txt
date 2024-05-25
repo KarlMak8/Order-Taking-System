@@ -1,0 +1,48 @@
+-----------------
+End of Day Report:
+-----------------
+Order Number: 3
+Hamburgers: 1
+Cheeseburgers: 1
+Veggieburgers: 1
+Sodas: 2
+TOGO: false
+
+Order Number: 4
+Hamburgers: 4
+Cheeseburgers: 4
+Veggieburgers: 4
+Sodas: 4
+TOGO: true
+
+Order Number: 5
+Hamburgers: 5
+Cheeseburgers: 5
+Veggieburgers: 5
+Sodas: 5
+TOGO: false
+
+Order Number: 6
+Hamburgers: 8
+Cheeseburgers: 1
+Veggieburgers: 0
+Sodas: 1
+TOGO: true
+
+Order Number: 7
+Hamburgers: 7
+Cheeseburgers: 7
+Veggieburgers: 7
+Sodas: 7
+TOGO: false
+
+-----------------
+Completed Orders:
+-----------------
+Order Number: 1
+Hamburgers: 3
+Cheeseburgers: 15
+Veggieburgers: 4
+Sodas: 10
+TOGO: false
+

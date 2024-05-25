@@ -1,0 +1,6 @@
+numHamburgers,numCheeseburgers,numVeggieburgers,numSodas,orderToGo
+1,1,1,2,false
+4,4,4,4,true
+5,5,5,5,false
+8,1,0,1,true
+7,7,7,7,false
